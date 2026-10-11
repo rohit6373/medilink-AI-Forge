@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix MediLink",
+  "description": "Real-Time Inter-Hospital Emergency Resource Coordination Network with AI matching, live reservations, ambulance routing, and multi-hospital operational coordination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
